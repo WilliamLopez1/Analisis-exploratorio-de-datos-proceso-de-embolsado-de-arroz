@@ -1,2 +1,5 @@
-1+1+5*5
+install.packages("readxl")
+install.packages("ggplot2")
 
+library("readxl")
+library("ggplot2")
